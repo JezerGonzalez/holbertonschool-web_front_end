@@ -11,7 +11,7 @@ body {
 }
 a {
     color: var(--text-color);
-    font-style: normal;
+    text-decoration: none;
 }
 .visually-hidden {
     display: none;
