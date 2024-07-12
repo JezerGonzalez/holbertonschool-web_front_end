@@ -95,7 +95,7 @@ a:active{
     display: none;
 }
 
-.card-services.card-title {
+.card-services .card-title {
     margin: 0;
 }
 
