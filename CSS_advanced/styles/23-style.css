@@ -104,7 +104,7 @@ a:active{
 }
 
 .social-link > svg {
-    color: var(--text-color);
+    background-color: var(--text-color);
 }
 
 .section {
