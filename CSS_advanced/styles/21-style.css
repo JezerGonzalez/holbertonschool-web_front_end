@@ -40,7 +40,7 @@ ul.row {
     list-style: none;
 }
 
-.col- {
+[class^="col-"] {
     float: left;
     padding: 0.05rem;
 }
