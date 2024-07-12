@@ -101,7 +101,7 @@ a:active{
 
 .card-services a{
     display: block;
-    padding: 10rem;
+    padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
