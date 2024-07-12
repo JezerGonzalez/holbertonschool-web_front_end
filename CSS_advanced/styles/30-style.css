@@ -173,7 +173,7 @@ a:active{
 
 .card-work .card-inner {
     position: absolute;
-    vertical-align: -0.1rem top;
+    top: -0.1rem top;
     left: -0.1rem left;
     right: -0.1rem right;
     z-index: 1;
